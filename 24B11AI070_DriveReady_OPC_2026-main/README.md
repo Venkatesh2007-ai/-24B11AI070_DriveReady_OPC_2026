@@ -1,4 +1,4 @@
-# 🤖 24B11AI304_DriveReady_OPC_2026 — Agentic AI Workshop
+# 🤖 24B11AI070_DriveReady_OPC_2026 — Agentic AI Workshop
 
 This repository contains the practical assignments and code developed during the **DriveReady Agentic AI Workshop (OPC 2026)**.
 
